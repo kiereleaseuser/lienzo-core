@@ -6,11 +6,13 @@
 	<groupId>org.kie</groupId>
 	<artifactId>lienzo-core</artifactId>
 	<version>7.39.0-SNAPSHOT</version>
+	<!-- bla bla bla -->	
 	<name>[KIE] Lienzo - Core Framework</name>
 	<description>[KIE] Lienzo - Core Framework</description>
         <url>http://www.kiegroup.org</url>
         <inceptionYear>2001</inceptionYear>
-        <organization>
+	<organization>
+	<!-- otro comentario -->	
           <name>JBoss by Red Hat</name>
           <url>http://www.jboss.org/</url>
         </organization>

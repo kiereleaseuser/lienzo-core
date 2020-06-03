@@ -50,7 +50,7 @@ public class ColorTest
         assertEquals(WHITE.getColor(), white);
 
         Color black = Color.hex2RGB("#000000");
-        assertEquals(BLACK.getColor(), black);
+        assertEquals(BLACK.getColor(), white);
 
         Color maximumRed = Color.hex2RGB("#ff0000");
         assertEquals(RED.getColor(), maximumRed);
